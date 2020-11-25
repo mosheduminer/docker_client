@@ -1,9 +1,7 @@
 name: docker_client
 version: 1.0.0-dev.1
 description: Docker Engine API client
-authors:
-  - Author <author@homepage>
-homepage: homepage
+homepage: https://github.com/mosheduminer/docker_client
 environment:
   sdk: '>=2.0.0 <3.0.0'
 dependencies:
